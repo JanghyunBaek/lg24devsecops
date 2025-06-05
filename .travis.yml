@@ -11,3 +11,5 @@ after_success:
 addons:
   sonarcloud:
     organization: janghyunbaek-sq
+    token:
+      secure: "4f65527c2317b3101290c710037f06888ceafe5a"
